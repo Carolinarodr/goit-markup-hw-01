@@ -309,6 +309,7 @@ font-family: 'Roboto';
     font-weight: 700;
     font-size: 18px;
     line-height: 36px;
+    cursor: pointer;
     /* identical to box height, or 200% */
 
     letter-spacing: 0.06em;
